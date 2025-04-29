@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4821581436004041901, guid: 5f0f02ee57490404ba62e1c36966a6c8, type: 3}
       propertyPath: m_Name
-      value: Puzzle Door Variant
+      value: Puzzle Door HZ
       objectReference: {fileID: 0}
     - target: {fileID: 5733718953457278994, guid: 5f0f02ee57490404ba62e1c36966a6c8, type: 3}
       propertyPath: m_LocalPosition.x

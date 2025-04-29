@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Fake_Water
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 60396841, guid: 36e15d9d6f289b04ca8913af347b52b5, type: 3}
-  m_Color: {r: 0.6622641, g: 1, b: 0.6743261, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0

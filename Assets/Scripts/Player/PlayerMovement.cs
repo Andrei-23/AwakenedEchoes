@@ -92,10 +92,11 @@ public class PlayerMovement : MonoBehaviour
     }
     public void Dash(Vector2 velocity, float duration)
     {
+        if (_dashesActive > 0) return;
         _dashesActive++;
         _dashVelocity += velocity;
         StartCoroutine(StopDash(velocity, duration));
-    }
+    } 
     public IEnumerator StopDash(Vector2 velocity, float duration)
     {
         yield return new WaitForSeconds(duration);
