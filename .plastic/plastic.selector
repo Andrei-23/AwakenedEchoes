@@ -1,0 +1,4 @@
+repository "Awakened Echoes@ANDROID23@cloud"
+  path "/"
+    br "/main"
+    co "/main"
